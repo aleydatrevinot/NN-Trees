@@ -56,45 +56,45 @@ Variables:
  * Dimensions: lon,lat,time
  * Datatype:   single
  * Attributes:
-             * statistic               = 'Mean'
-             * missing_value           = -99999
-             * dataset                 = 'Dai Palmer Drought Severity Index: Self-calibrated'
-             * long_name               = 'Monthly Self-calibrated Palmer Drought Severity Index using Penman-Monteith PE'
-             * level_desc              = 'Surface'
-             * var_desc                = 'Palmer Drought Severity Index'
-             * least_significant_digit = 2
-             * units                   = 'Standardized Units of Relative Dry and Wet'
-             * actual_range            = [-8.1602      8.1601]
-             * valid_range             = [-100  100]
-    * lon 
-           * Size:       144x1
-           * Dimensions: lon
-           * Datatype:   single
-           * Attributes:
-                       * units         = 'degrees_east'
-                       * long_name     = 'Longitude'
-                       * actual_range  = [-178.75        178.75]
-                       * standard_name = 'longitude'
-                       * axis          = 'X'
-    * lat 
-           * Size:       55x1
-           * Dimensions: lat
-           * Datatype:   single
-           * Attributes:
-                       * units         = 'degrees_north'
-                       * long_name     = 'Latitude'
-                       * actual_range  = [-58.75        76.25]
-                       * standard_name = 'latitude'
-                       * axis          = 'Y'
-    * time
-           * Size:       1980x1
-           * Dimensions: time
-           * Datatype:   double
-           * Attributes:
-                       * units         = 'hours since 1800-01-01 00:00:0.0'
-                       * actual_range  = [438288  1883904]
-                       * long_name     = 'Time'
-                       * delta_t       = '0000-01-00 00:00:00'
-                       * avg_period    = '0000-01-00 00:00:00'
-                       * standard_name = 'time'
-                       * axis          = 'T'
+   * statistic               = 'Mean'
+   * missing_value           = -99999
+   * dataset                 = 'Dai Palmer Drought Severity Index: Self-calibrated'
+   * long_name               = 'Monthly Self-calibrated Palmer Drought Severity Index using Penman-Monteith PE'
+   * level_desc              = 'Surface'
+   * var_desc                = 'Palmer Drought Severity Index'
+   * least_significant_digit = 2
+   * units                   = 'Standardized Units of Relative Dry and Wet'
+   * actual_range            = [-8.1602      8.1601]
+   * valid_range             = [-100  100]
+* lon 
+ * Size:       144x1
+ * Dimensions: lon
+ * Datatype:   single
+ * Attributes:
+   * units         = 'degrees_east'
+   * long_name     = 'Longitude'
+   * actual_range  = [-178.75        178.75]
+   * standard_name = 'longitude'
+   * axis          = 'X'
+* lat 
+ * Size:       55x1
+ * Dimensions: lat
+ * Datatype:   single
+ * Attributes:
+   * units         = 'degrees_north'
+   * long_name     = 'Latitude'
+   * actual_range  = [-58.75        76.25]
+   * standard_name = 'latitude'
+   * axis          = 'Y'
+* time
+ * Size:       1980x1
+ * Dimensions: time
+ * Datatype:   double
+ * Attributes:
+   * units         = 'hours since 1800-01-01 00:00:0.0'
+   * actual_range  = [438288  1883904]
+   * long_name     = 'Time'
+   * delta_t       = '0000-01-00 00:00:00'
+   * avg_period    = '0000-01-00 00:00:00'
+   * standard_name = 'time'
+   * axis          = 'T'
