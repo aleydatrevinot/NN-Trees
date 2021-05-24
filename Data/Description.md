@@ -7,9 +7,10 @@ Full scPDSI data available [here](https://psl.noaa.gov/data/gridded/data.pdsi.ht
 _Dai, A., K. E. Trenberth, and T. Qian, 2004: A global data set of Palmer Drought Severity Index for 1870-2002: Relationship with soil moisture and effects of surface warming. J. Hydrometeorology, 5, 1117-1130._
 
 ### The original scPDSI Data has this information:
-* Format: classic
 
-* Global Attributes:
+Format: classic
+
+Global Attributes:
            * title           = 'Global Monthly Dai Palmer Drought Severity Index'
            * history         = 'created Apr 2013 from data at NCAR webpage:updated Nov 2015 from new dataset version'
            * References      = 'https://www.esrl.noaa.gov/psd/data/gridded/data.pdsi.html'
@@ -43,11 +44,13 @@ _Dai, A., K. E. Trenberth, and T. Qian, 2004: A global data set of Palmer Drough
                              This is a normalized version so that every grid box has the same   
                              s.d. as that in the central U.S. during the calibr. period (1950-79)'
            * dataset_title   = 'Palmer Drought Severity Index'
-* Dimensions:
+
+Dimensions:
            * lon  = 144
            * lat  = 55
            * time = 1980  (UNLIMITED)
-* Variables:
+
+Variables:
    * pdsi
            * Size:       144x55x1980
            * Dimensions: lon,lat,time
