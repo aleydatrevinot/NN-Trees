@@ -1,4 +1,11 @@
-# This folder contains the data necessary to run the code :)
+# This folder contains most of the data necessary to run the code :)
+## Tree data
+
+Tree data in NN_Tree_Data MATLAB structure
+
+## Input Parameter Data 
+
+Starts as InputSeries
 
 ## scPDSI Data
 
