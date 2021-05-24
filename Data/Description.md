@@ -11,14 +11,14 @@ _Dai, A., K. E. Trenberth, and T. Qian, 2004: A global data set of Palmer Drough
 * Format: classic
 
 * Global Attributes:
- * title           = 'Global Monthly Dai Palmer Drought Severity Index'
- * history         = 'created Apr 2013 from data at NCAR webpage:updated Nov 2015 from new dataset version'
- * References      = 'https://www.esrl.noaa.gov/psd/data/gridded/data.pdsi.html'
- * original_source = 'NCAR/UCAR: A Dai http://www.cgd.ucar.edu/cas/catalog/climind/pdsi.html.'
- * comments        = 'original creation date: Thu Oct 25 15:25:40 MDT 2012 at NCAR. Updated at PSD Oct 2016 with corrected NCAR data'
- * Conventions     = 'COARDS'
- * details         = 'see ncar for more detials and updates'
- * description     = '
+  * title           = 'Global Monthly Dai Palmer Drought Severity Index'
+  * history         = 'created Apr 2013 from data at NCAR webpage:updated Nov 2015 from new dataset version'
+  * References      = 'https://www.esrl.noaa.gov/psd/data/gridded/data.pdsi.html'
+  * original_source = 'NCAR/UCAR: A Dai http://www.cgd.ucar.edu/cas/catalog/climind/pdsi.html.'
+  * comments        = 'original creation date: Thu Oct 25 15:25:40 MDT 2012 at NCAR. Updated at PSD Oct 2016 with corrected NCAR data'
+  * Conventions     = 'COARDS'
+  * details         = 'see ncar for more detials and updates'
+  * description     = '
                    Monthly Self-calibrated Palmer Drought Severity Index (scPDSI)     
                    calculated using observed surface air temperature (HadCRUT4 from   
                    http://www.cru.uea.ac.uk/cru/data/temperature/ ) and               
@@ -46,9 +46,9 @@ _Dai, A., K. E. Trenberth, and T. Qian, 2004: A global data set of Palmer Drough
  * dataset_title   = 'Palmer Drought Severity Index'
 
 * Dimensions:
- * lon  = 144
- * lat  = 55
- * time = 1980  (UNLIMITED)
+  * lon  = 144
+  * lat  = 55
+  * time = 1980  (UNLIMITED)
 
 **Variables:**
 
