@@ -7,7 +7,7 @@ Tree data in NN_Tree_Data MATLAB structure
 
 Starts as InputSeries
 
-## scPDSI Data
+## scPDSI Data (download externally and add to this folder)
 
 Full scPDSI data available [here](https://psl.noaa.gov/data/gridded/data.pdsi.html)
 
