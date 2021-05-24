@@ -51,21 +51,21 @@ Dimensions:
            * time = 1980  (UNLIMITED)
 
 Variables:
-   * pdsi
-           * Size:       144x55x1980
-           * Dimensions: lon,lat,time
-           * Datatype:   single
-           * Attributes:
-                       * statistic               = 'Mean'
-                       * missing_value           = -99999
-                       * dataset                 = 'Dai Palmer Drought Severity Index: Self-calibrated'
-                       * long_name               = 'Monthly Self-calibrated Palmer Drought Severity Index using Penman-Monteith PE'
-                       * level_desc              = 'Surface'
-                       * var_desc                = 'Palmer Drought Severity Index'
-                       * least_significant_digit = 2
-                       * units                   = 'Standardized Units of Relative Dry and Wet'
-                       * actual_range            = [-8.1602      8.1601]
-                       * valid_range             = [-100  100]
+* pdsi
+ * Size:       144x55x1980
+ * Dimensions: lon,lat,time
+ * Datatype:   single
+ * Attributes:
+             * statistic               = 'Mean'
+             * missing_value           = -99999
+             * dataset                 = 'Dai Palmer Drought Severity Index: Self-calibrated'
+             * long_name               = 'Monthly Self-calibrated Palmer Drought Severity Index using Penman-Monteith PE'
+             * level_desc              = 'Surface'
+             * var_desc                = 'Palmer Drought Severity Index'
+             * least_significant_digit = 2
+             * units                   = 'Standardized Units of Relative Dry and Wet'
+             * actual_range            = [-8.1602      8.1601]
+             * valid_range             = [-100  100]
     * lon 
            * Size:       144x1
            * Dimensions: lon
