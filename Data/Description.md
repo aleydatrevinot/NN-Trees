@@ -50,7 +50,7 @@ _Dai, A., K. E. Trenberth, and T. Qian, 2004: A global data set of Palmer Drough
   * lat  = 55
   * time = 1980  (UNLIMITED)
 
-**Variables:**
+**Variables:** 
 
 * pdsi
   * Size:       144x55x1980
