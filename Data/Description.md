@@ -1,9 +1,8 @@
-This folder contains the data necessary to run the code :)
+# This folder contains the data necessary to run the code :)
 
 Full scPDSI data available at: 
-A sample of it here: https://psl.noaa.gov/data/gridded/data.pdsi.html 
-{\it Dai, A., K. E. Trenberth, and T. Qian, 2004: A global data set of Palmer Drought Severity Index for 1870-2002: 
-Relationship with soil moisture and effects of surface warming. J. Hydrometeorology, 5, 1117-1130. }
+A sample of it [here](https://psl.noaa.gov/data/gridded/data.pdsi.html)
+_Dai, A., K. E. Trenberth, and T. Qian, 2004: A global data set of Palmer Drought Severity Index for 1870-2002: Relationship with soil moisture and effects of surface warming. J. Hydrometeorology, 5, 1117-1130._
 scPDSI Data has this information:
 Format:
            classic
