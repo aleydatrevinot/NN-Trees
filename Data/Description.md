@@ -88,14 +88,14 @@ _Dai, A., K. E. Trenberth, and T. Qian, 2004: A global data set of Palmer Drough
   * standard_name = 'latitude'
   * axis          = 'Y'
 * time
- * Size:       1980x1
- * Dimensions: time
- * Datatype:   double
- * Attributes:
-   * units         = 'hours since 1800-01-01 00:00:0.0'
-   * actual_range  = [438288  1883904]
-   * long_name     = 'Time'
-   * delta_t       = '0000-01-00 00:00:00'
-   * avg_period    = '0000-01-00 00:00:00'
-   * standard_name = 'time'
-   * axis          = 'T'
+  * Size:       1980x1
+  * Dimensions: time
+  * Datatype:   double
+  * Attributes:
+    * units         = 'hours since 1800-01-01 00:00:0.0'
+    * actual_range  = [438288  1883904]
+    * long_name     = 'Time'
+    * delta_t       = '0000-01-00 00:00:00'
+    * avg_period    = '0000-01-00 00:00:00'
+    * standard_name = 'time'
+    * axis          = 'T'
