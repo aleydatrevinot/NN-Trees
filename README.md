@@ -1,4 +1,5 @@
 # NN-Trees
 
-## Update April 27, 2021
-Other files will be added in order to make this sun seemlessly. 
+## Update May 24, 2021
+* Data files added
+* User would need to download the pdsi data, check link in Data folder's Description.md
